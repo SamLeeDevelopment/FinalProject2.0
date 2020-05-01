@@ -1,0 +1,5 @@
+A function that works on all the data entries as a whole???AVG() - Returns the average value???COUNT() - Returns the number of rows???DISTINCT() - Returns non duplicates???MAX() - Returns the largest value???MIN() - Returns the smallest value???SUM() - Returns the sum&amp;quot;
+What is an outer-join
+
+Sorry, we couldn't find anything.
+is defined by when a COMMIT implicitly or explicitly occurs

@@ -1,0 +1,5 @@
+SQL stands for Structured Query Language. SQL lets you access and manipulate databases.
+What is SQL
+
+ORDER BY
+ aren’t allowed in the CREATE VIEW command.
